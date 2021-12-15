@@ -1,7 +1,7 @@
 # Recipe-Book
 ## This Repository is for the Project for CS-GY 6053 Foundation of Data Science at NEW YORK UNIVERSITY titled Recipe Book
 
-
+***
 ## ABSTRACT:
 #### Given a group of recipes and relevant categories, can we associate new tags based on the existing categories? Can we reliably list out the healthy recipes based on the nutrient values? Can we draw any other inferences based on the book we have?
 
